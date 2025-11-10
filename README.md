@@ -1,7 +1,7 @@
 # LocalBooks-Console-Library-Manager
 
 📚 About the Project
-This isn't some fancy web application—it's a straightforward, console-based library management system built entirely in Java. It’s perfect for demonstrating core Object-Oriented Programming (OOP) concepts like creating custom classes (Book) and managing dynamic collections using ArrayList. Think of it as the no-frills, reliable tool for a small office or personal collection.
+This isn't some fancy web application it's a straightforward, console-based library management system built entirely in Java. It’s perfect for demonstrating core Object-Oriented Programming (OOP) concepts like creating custom classes (Book) and managing dynamic collections using ArrayList. Think of it as the no-frills, reliable tool for a small office or personal collection.
 
 
 ✨ Key Features
